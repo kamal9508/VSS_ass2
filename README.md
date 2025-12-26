@@ -2,7 +2,7 @@
 
 VideoVault is a local, full‑stack demo app for secure video upload, automated sensitivity analysis, and streaming with role-based access control. This repository contains both the Vite + React frontend and a Node/Express backend with an in-memory fallback store (useful when MongoDB is not available).
 
-![VideoVault Sign In](assets/screenshot.svg)
+![VideoVault Sign In](M:\Pulsegen\review-retriever-main\public\Login.png)
 
 ## Highlights
 
